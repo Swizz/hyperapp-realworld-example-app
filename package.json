@@ -1,0 +1,23 @@
+{
+  "name": "hyperapp-realworld-example-app",
+  "version": "0.18.0",
+  "description": "Exemplary real world application built with Hyperapp",
+  "repository": "Swizz/hyperapp-realworld-example-app",
+  "author": "Quentin Gerodel",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "parcel-bundler": "^1.4.1"
+  },
+  "dependencies": {
+    "@hyperapp/router": "^0.4.1",
+    "hyperapp": "^1.0.1"
+  }
+}

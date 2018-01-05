@@ -1,17 +1,15 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
-/bower_components
+node_modules/
+yarn.lock
+package-lock.json
 
 # IDEs and editors
-/.idea
-.project
-.classpath
-*.launch
-.settings/
+*.log*
+.vscode
 
-
-#System Files
-.DS_Store
-Thumbs.db
+# build files
+dist/
+build/
+.cache/

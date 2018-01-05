@@ -1,0 +1,7 @@
+{
+  "presets": ["env"],
+  "plugins": [
+    ["transform-react-jsx", { "pragma": "jsx" }],
+    "transform-object-rest-spread"
+  ]
+}
