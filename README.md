@@ -1,6 +1,8 @@
+> **You may take a look at [kwasniew/hyperapp-realworld-example-app](https://github.com/kwasniew/hyperapp-realworld-example-app) that is the actually promoted as the Hyperapp RealWorld Example App. See [gothinkster/realworld#257](https://github.com/gothinkster/realworld/issues/257)**
+
 # ![RealWorld Example App](logo.png)
 
-> ### [Hyperapp](https://github.com/hyperapp/hyperapp) codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
+> [Hyperapp](https://github.com/hyperapp/hyperapp) codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 
 
 ### [Demo](https://github.com/gothinkster/realworld)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](https://github.com/gothinkster/realworld)
